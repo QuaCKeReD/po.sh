@@ -32,7 +32,7 @@
 	# Be sure that there is another literal ' at the end of the line
 	# No spaces!
 	#		PUSHOVER_TOKEN='xxxxx'
-POSH_FILE="$HOME/Dropbox/etc/posh.txt"
+POSH_FILE="$HOME/etc/posh.txt"
 
 	# NOTE! Alternatively, you could define them here.
 	# Just remove the '#' from the start of the next two lines and enter the correct values
